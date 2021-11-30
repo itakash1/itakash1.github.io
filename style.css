@@ -212,6 +212,10 @@ footer .title:before{
     padding: 15%;
     background: rgba(185, 203, 255, 0.1);
 }
+#discord-invite img{
+    padding: 15%;
+    background: rgba(185, 203, 255, 0.1);
+}
 
 #twitter:hover img{
     -webkit-transform: scale(1.2);
@@ -232,6 +236,13 @@ footer .title:before{
     -ms-transform: scale(1.2);
     transform: scale(1.2);
     padding: 15%;
+    background: rgba(185, 203, 255, 0.1);
+}
+#discord-invite:hover img{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
     background: rgba(185, 203, 255, 0.1);
 }
 
