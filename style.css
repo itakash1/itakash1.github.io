@@ -209,7 +209,7 @@ footer .title:before{
     background: rgba(185, 203, 255, 0.1);
 }
 #spotify img{
-    padding: 15%;
+    padding: 19%;
     background: rgba(185, 203, 255, 0.1);
 }
 #discord-invite img{
@@ -235,7 +235,7 @@ footer .title:before{
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
-    padding: 15%;
+    padding: 19%;
     background: rgba(185, 203, 255, 0.1);
 }
 #discord-invite:hover img{
