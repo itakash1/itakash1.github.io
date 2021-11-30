@@ -213,7 +213,7 @@ footer .title:before{
     background: rgba(185, 203, 255, 0.1);
 }
 #discord-invite img{
-    padding: 17%;
+    padding: 15%;
     background: rgba(185, 203, 255, 0.1);
 }
 
@@ -243,6 +243,7 @@ footer .title:before{
     -ms-transform: scale(1.2);
     -o-transform: scale(1.2);
     transform: scale(1.2);
+    padding: 15%;
     background: rgba(185, 203, 255, 0.1);
 }
 
